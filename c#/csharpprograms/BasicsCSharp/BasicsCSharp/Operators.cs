@@ -19,4 +19,17 @@ namespace BasicsCSharp
             Console.WriteLine("n1 % n2 " + result);
         }
     }
+
+    public class Test
+    {
+        public static void greet()
+        {
+            Console.WriteLine("Greet");
+        }
+        public void info()
+        {
+            Console.WriteLine("info method");
+            }
+
+    }
 }

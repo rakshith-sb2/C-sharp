@@ -12,7 +12,13 @@ namespace BasicsCSharp
             //implicitTypeConversion();
             //explicitTypeConversion();
             //Operators oper = new Operators();
-            Operators.arithmeticOperator();
+            //Operators.arithmeticOperator();
+            //Test.greet();
+            //Test test = new Test();
+            //test.info();
+            //Loops.whileloop();
+            //Loops.forloop();
+            Loops.forloopBreakNContinue();
         }
 
         static void add()
@@ -20,9 +26,7 @@ namespace BasicsCSharp
             int n1 = 100;
             int n2 = 200;
             int res = n1 + n2;
-            Console.WriteLine(res);
-            
-
+            Console.WriteLine(res);      
         }
 
         static void dataTypes()
