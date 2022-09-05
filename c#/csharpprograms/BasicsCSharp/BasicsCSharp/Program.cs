@@ -18,7 +18,8 @@ namespace BasicsCSharp
             //test.info();
             //Loops.whileloop();
             //Loops.forloop();
-            Loops.forloopBreakNContinue();
+            //Loops.forloopBreakNContinue();
+            UserInputscs.eligibleToVote();
         }
 
         static void add()
