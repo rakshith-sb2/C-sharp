@@ -1,0 +1,8 @@
+1. Design a responsive webpage
+to display 
+a. Three products
+in laptop/desktop view 
+b. Two products in tab view
+one next to each other
+c. One product in mobile view
+in each row

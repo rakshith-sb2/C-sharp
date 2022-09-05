@@ -1,0 +1,19 @@
+Training
+Recap - html/css/javascript
+
+Fullstack Web Application Development
+
+SDLC - Software Development Life Cycle
+
+Waterfall Model
+S - System Engineering (Hardware/Software)-requirements
+A - Analysis
+D - Design
+T - Testing
+M - Maintenance
+C - Coding
+
+SAD - Siromani Akali Dal
+TMC - Truna Mul Congress
+
+

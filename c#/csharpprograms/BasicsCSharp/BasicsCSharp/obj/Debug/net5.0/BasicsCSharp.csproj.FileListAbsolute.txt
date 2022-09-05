@@ -1,0 +1,16 @@
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\bin\Debug\net5.0\BasicsCSharp.exe
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\bin\Debug\net5.0\BasicsCSharp.deps.json
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\bin\Debug\net5.0\BasicsCSharp.runtimeconfig.json
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\bin\Debug\net5.0\BasicsCSharp.runtimeconfig.dev.json
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\bin\Debug\net5.0\BasicsCSharp.dll
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\bin\Debug\net5.0\BasicsCSharp.pdb
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\obj\Debug\net5.0\BasicsCSharp.csproj.AssemblyReference.cache
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\obj\Debug\net5.0\BasicsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\obj\Debug\net5.0\BasicsCSharp.AssemblyInfoInputs.cache
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\obj\Debug\net5.0\BasicsCSharp.AssemblyInfo.cs
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\obj\Debug\net5.0\BasicsCSharp.csproj.CoreCompileInputs.cache
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\obj\Debug\net5.0\BasicsCSharp.dll
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\obj\Debug\net5.0\ref\BasicsCSharp.dll
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\obj\Debug\net5.0\BasicsCSharp.pdb
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\obj\Debug\net5.0\BasicsCSharp.genruntimeconfig.cache
+E:\kaushalya.tech\consultancy\flatworld\training\c#\csharpprograms\BasicsCSharp\BasicsCSharp\obj\Debug\net5.0\refint\BasicsCSharp.dll

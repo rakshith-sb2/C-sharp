@@ -1,0 +1,22 @@
+Agenda:
+Resonsive Web Design
+Media queries
+
+C# - Introduction
+How to getting started
+Datatypes
+
+Operators
+Assignment
+Arithmetic - +,-,*,/,%,**
+Relational opertors - 
+>,<,>=,<=,==,!=
+true or false
+Logical &&,||,!
+
+
+Loops
+Conditional statements
+Examples-assignment
+
+

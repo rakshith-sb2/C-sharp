@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+jf9dMdxEDjjjZ+5XulNe08OwlArzPhZotzc0qGWM0SJEwHyV4+HCYUNloFPIMVrLBcnXMXBPUXAJoPGve6Cw==",
+  "success": true,
+  "projectFilePath": "E:\\kaushalya.tech\\consultancy\\flatworld\\training\\c#\\csharpprograms\\BasicsCSharp\\BasicsCSharp\\BasicsCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
