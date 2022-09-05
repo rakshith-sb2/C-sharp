@@ -1,0 +1,22 @@
+1. Write a program to calculate
+simple Interest.
+Accept principal,rate of interest and time
+as user inputs
+i=prt/100
+2. Write a program to print table of any
+given number.
+Accept table as user input
+Enter a table 10
+10 X 1 = 10
+10 X 2 = 20
+...
+
+10 X 10 =100
+3. Write a program to convert miles to kms
+by accepting user inputs
+4. Write a program to convert currency
+in one format to another
+USD to INR
+EURO to INR
+10 
+1 USD = 80 INR
