@@ -1,0 +1,9 @@
+Agenda:
+Class
+Objects
+Inheritance
+Polimorphism
+Abstration
+Encapsulation
+Arrays
+Collections - ArrayList,Stack
