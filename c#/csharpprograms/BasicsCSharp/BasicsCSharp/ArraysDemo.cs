@@ -61,6 +61,14 @@ namespace BasicsCSharp
             {
                 Console.WriteLine(run);
             }
+
+            Array.Reverse(runs);
+            Console.WriteLine("sorting in descending order");
+
+            foreach (int run in runs)
+            {
+                Console.WriteLine(run);
+            }
         }
 
     }
