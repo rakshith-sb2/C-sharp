@@ -20,7 +20,26 @@ namespace BasicsCSharp
             //Loops.forloop();
             //Loops.forloopBreakNContinue();
             //UserInputscs.eligibleToVote();
-            ArraysDemo.arrays();
+            //ArraysDemo.arrays();
+            Product product1 = new Product();
+            product1.code = 1;
+            product1.name = "Mobile";
+            product1.desc = "10 inch 8 GB RAM 64";
+            product1.supplier = "Nokia";
+            product1.price = 30000;
+
+            string info= product1.info();
+            Console.WriteLine(info);
+
+            Product product2 = new Product();
+            product2.code = 2;
+            product2.name = "Laptop";
+            product2.desc = "15 inch 8 GB RAM 64";
+            product2.supplier = "Lenovo";
+            product2.price = 60000;
+
+            string info2 = product2.info();
+            Console.WriteLine(info2);
         }
 
         static void add()
