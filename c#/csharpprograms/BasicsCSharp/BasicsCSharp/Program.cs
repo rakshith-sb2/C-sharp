@@ -41,7 +41,7 @@ namespace BasicsCSharp
 
             string info2 = product2.info();
             Console.WriteLine(info2);
-            */
+            
             Console.WriteLine("Constructure");
             Customer cust1 = new Customer(1, "ravi", "ravi@gmail.com", "9845547471", "Bengaluru");
             Console.WriteLine(cust1.info());
@@ -51,6 +51,19 @@ namespace BasicsCSharp
             cust1.zipcode = 560001;
             Console.WriteLine("Getting zip code");
             Console.WriteLine("Zipcode " + cust1.zipcode);
+            */
+
+            Car car1 = new Car();
+            car1.name = "SUV";
+            car1.model = "Creta";
+            car1.make = "Hundai";
+            car1.price = 17000000;
+            car1.ac = "Kenstar";
+            car1.start();
+            car1.move();
+            car1.move();
+            Console.WriteLine(car1.info());
+            car1.stop();
 
         }
 
