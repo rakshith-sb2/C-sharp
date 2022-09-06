@@ -21,6 +21,7 @@ namespace BasicsCSharp
             //Loops.forloopBreakNContinue();
             //UserInputscs.eligibleToVote();
             //ArraysDemo.arrays();
+            /*
             Product product1 = new Product();
             product1.code = 1;
             product1.name = "Mobile";
@@ -40,6 +41,17 @@ namespace BasicsCSharp
 
             string info2 = product2.info();
             Console.WriteLine(info2);
+            */
+            Console.WriteLine("Constructure");
+            Customer cust1 = new Customer(1, "ravi", "ravi@gmail.com", "9845547471", "Bengaluru");
+            Console.WriteLine(cust1.info());
+            cust1.country = "India";
+            Console.WriteLine("Country "+cust1.country);
+            Console.WriteLine("Setting zip code");
+            cust1.zipcode = 560001;
+            Console.WriteLine("Getting zip code");
+            Console.WriteLine("Zipcode " + cust1.zipcode);
+
         }
 
         static void add()

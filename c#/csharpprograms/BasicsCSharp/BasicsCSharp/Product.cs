@@ -15,6 +15,8 @@ namespace BasicsCSharp
         public string desc;
         public string supplier;
         public float price;
+
+        
         //method
         public string info()
         {

@@ -1,11 +1,15 @@
 Agenda:
+
+Arrays
 Class
 Objects
+Constructure
+
+
 Inheritance
 Polimorphism
 Abstration
 Encapsulation
-Arrays
 Collections - ArrayList,Stack
 
 
