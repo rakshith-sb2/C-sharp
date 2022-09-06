@@ -19,7 +19,8 @@ namespace BasicsCSharp
             //Loops.whileloop();
             //Loops.forloop();
             //Loops.forloopBreakNContinue();
-            UserInputscs.eligibleToVote();
+            //UserInputscs.eligibleToVote();
+            ArraysDemo.arrays();
         }
 
         static void add()
