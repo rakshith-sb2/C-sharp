@@ -1,0 +1,13 @@
+1. Create an Account class having a constructor
+2. Following parameters to be passed to constructor
+accountnumber,name,email,mobile,balance
+
+initially balance should be zero
+3. Add deposit (int accountno,float amttodeposit)
+amttodeposit to be added to balance
+balance to be returned
+4. Add withdraw (int accountno,float amttodeposit)
+amttodeposit to be deducted from  balance
+balance to be returned
+5. Add checkBalance(int accountno)
+balance to be returned

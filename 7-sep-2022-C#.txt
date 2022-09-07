@@ -1,0 +1,25 @@
+Agenda:
+Oops
+Overloading
+addInt(n1,n2)
+addFloat(n1,n2)
+addDouble(n1,n2)
+public int add(int n1,int n2){
+return n1+n2;
+}
+add(int n1,int n2,int n3)
+add(float n1,float n2)
+add(double n1,double n2)
+
+
+class RBI
+float roi=
+rateofinterest()
+2.5%
+
+Class SBI
+rateofinterest()
+5%
+Class KarnatakaBank()
+rateofinterest()
+7%

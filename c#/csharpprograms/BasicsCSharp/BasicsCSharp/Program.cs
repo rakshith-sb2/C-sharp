@@ -51,7 +51,7 @@ namespace BasicsCSharp
             cust1.zipcode = 560001;
             Console.WriteLine("Getting zip code");
             Console.WriteLine("Zipcode " + cust1.zipcode);
-            */
+            
 
             Car car1 = new Car();
             car1.name = "SUV";
@@ -64,6 +64,8 @@ namespace BasicsCSharp
             car1.move();
             Console.WriteLine(car1.info());
             car1.stop();
+            */
+            MethodOverloadTest.testOverLoad();
 
         }
 
