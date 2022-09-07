@@ -10,7 +10,7 @@ namespace BasicsCSharp
     {
         public void SwitchOn();
         public void SwitchOff();
-
+        public string changeChannel(string channel);
         // public String changeChannel(String channel)
         // public int changeVolume(int volume)
         // TCLTV has to implement IUniversalRemote
@@ -19,6 +19,16 @@ namespace BasicsCSharp
     internal class SonyTV : IUniversalRemote
     {
         bool tvStatus = false;
+        string currentChannel = "";
+
+        public string changeChannel(string channel)
+         {
+            currentChannel=channel;
+            //Console.WriteLine("SonyTV: Channel is changed to "+channel);
+            return currentChannel;
+
+        }
+
         public void SwitchOff()
         {
             // throw new NotImplementedException();
@@ -55,6 +65,8 @@ namespace BasicsCSharp
             IUniversalRemote iURemote = new SonyTV();
             iURemote.SwitchOn();
             iURemote.SwitchOff();
+            string currentChannel = iURemote.changeChannel("Star Sports 1");
+            Console.WriteLine("SonyTV: Channel is changed to "+ currentChannel);
         }
 
     }

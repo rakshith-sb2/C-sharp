@@ -68,8 +68,10 @@ namespace BasicsCSharp
             MethodOverloadTest.testOverLoad();
             
             MethodOverride.testMethodOverride();
-            */
+            
             InterfaceDemo.interfaceDemo();
+            */
+            AbstractClassDemo.testAbstractClass();
         }
 
         static void add()
