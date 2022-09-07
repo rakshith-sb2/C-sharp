@@ -64,9 +64,10 @@ namespace BasicsCSharp
             car1.move();
             Console.WriteLine(car1.info());
             car1.stop();
-            */
+            
             MethodOverloadTest.testOverLoad();
-
+            */
+            MethodOverride.testMethodOverride();
         }
 
         static void add()
