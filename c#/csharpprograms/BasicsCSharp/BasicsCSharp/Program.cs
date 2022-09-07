@@ -66,8 +66,10 @@ namespace BasicsCSharp
             car1.stop();
             
             MethodOverloadTest.testOverLoad();
-            */
+            
             MethodOverride.testMethodOverride();
+            */
+            InterfaceDemo.interfaceDemo();
         }
 
         static void add()
