@@ -72,9 +72,11 @@ namespace BasicsCSharp
             InterfaceDemo.interfaceDemo();
             
             AbstractClassDemo.testAbstractClass();
-            */
+            
             ArrayListDemo.demo1();
             ArrayListDemo.demo2();
+            */
+            CWGDemo.csgAssignment();
         }
 
         static void add()

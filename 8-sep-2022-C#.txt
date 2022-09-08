@@ -1,0 +1,17 @@
+Recap:
+Abstraction
+collections
+method overload/override
+
+1. create a CWG class - common wealth games
+This class should have following properties
+code,name,year,gold,silver,bronze,total
+
+2. Create a CWGList which embeds CWC class
+with in it.
+3. Add top 5 countries of CWC2022 games to
+the list
+4. Display the data of top 5 countries
+5. Update data of India increase the gold
+by 2 and total by 2
+4. Delete Australia from the list
