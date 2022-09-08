@@ -55,7 +55,43 @@ namespace BasicsCSharp
                 grandtotal = grandtotal+cwg.total;
             }
 
-            Console.Write("total medals won by all countries" + grandtotal);
+            Console.WriteLine("total medals won by all countries" + grandtotal);
+
+            Console.WriteLine("Change India's medal");
+
+            foreach (var cwg in cwgList)
+            {
+                if (cwg.name.Equals("India"))
+                {
+                    cwg.gold = cwg.gold + 2;
+                    cwg.total = cwg.total + 2;
+                    break;
+                }
+            }
+
+            Console.WriteLine("Display after changing India's medal");
+            foreach (var cwg in cwgList)
+            {
+                Console.WriteLine(cwg.info());
+            }
+
+            Console.WriteLine("Delete Australia data");
+            int indexOfAustralia = -1;
+            foreach (var cwg in cwgList)
+            {
+                if (cwg.name.Equals("Australia"))
+                {
+                    indexOfAustralia = cwgList.IndexOf(cwg);
+                    break;
+                }
+            }
+            cwgList.RemoveAt(indexOfAustralia);
+
+            Console.WriteLine("Display after deleting Austalia's data");
+            foreach (var cwg in cwgList)
+            {
+                Console.WriteLine(cwg.info());
+            }
 
         }
     }
