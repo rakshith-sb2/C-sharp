@@ -1,0 +1,13 @@
+Agenda:
+1. Randomly verify assignment
+2. Recap C#.
+Enum
+File Management
+MCQ Test
+3. .NET
+4. Reflection
+5. Programming test
+
+Account
+Custom Exception :InsufficientBalance
+withdraw method

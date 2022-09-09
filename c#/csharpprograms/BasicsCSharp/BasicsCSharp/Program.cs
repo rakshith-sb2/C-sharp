@@ -76,7 +76,10 @@ namespace BasicsCSharp
             ArrayListDemo.demo1();
             ArrayListDemo.demo2();
             */
-            CWGDemo.csgAssignment();
+            //CWGDemo.csgAssignment();
+            //DictionaryDemo.demo1();
+            //ExceptionDemo.demo1();
+            AccountDemo.testAccount();
         }
 
         static void add()
