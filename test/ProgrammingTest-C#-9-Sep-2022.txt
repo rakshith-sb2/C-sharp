@@ -1,0 +1,36 @@
+Write  programs to simulate Corona Dashboard
+
+a. Create a Corona class
+Having following members as attributes
+
+code,name,active,recovered,death,total
+where code is the state code
+name is the state name
+name is string 
+other fields are int
+b. This class should have a constructure
+You have to pass all the attributes as
+a parameter to the constructure
+c. This class should have a info method
+which should return the details about the 
+attributes
+d. Create a CoronaDashBoard class
+CoronaDashBoard should have following methods
+addCoronaData(Corona corona) 
+
+This data should be added to coronaList.
+coronaList is a list of Corona
+Atleast add data of 5 states
+listCoronaData()
+This method should display corona data of
+all states
+
+updateCoronaData(Corona corona)
+This should update the data
+of any specific state
+deleteCorona(Corona corona)
+This should delete data of any specific state
+displayTopStates()
+This method should display data of topstate
+in terms of death rate
+3. Create a CoronaTest class
