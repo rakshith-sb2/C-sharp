@@ -1,0 +1,12 @@
+E:\kaushalya.tech\consultancy\flatworld\training\AssemblyDemo\CalculatorLib\bin\Debug\net6.0\CalculatorLib.deps.json
+E:\kaushalya.tech\consultancy\flatworld\training\AssemblyDemo\CalculatorLib\bin\Debug\net6.0\CalculatorLib.dll
+E:\kaushalya.tech\consultancy\flatworld\training\AssemblyDemo\CalculatorLib\bin\Debug\net6.0\CalculatorLib.pdb
+E:\kaushalya.tech\consultancy\flatworld\training\AssemblyDemo\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.AssemblyReference.cache
+E:\kaushalya.tech\consultancy\flatworld\training\AssemblyDemo\CalculatorLib\obj\Debug\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\kaushalya.tech\consultancy\flatworld\training\AssemblyDemo\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+E:\kaushalya.tech\consultancy\flatworld\training\AssemblyDemo\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfo.cs
+E:\kaushalya.tech\consultancy\flatworld\training\AssemblyDemo\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache
+E:\kaushalya.tech\consultancy\flatworld\training\AssemblyDemo\CalculatorLib\obj\Debug\net6.0\CalculatorLib.dll
+E:\kaushalya.tech\consultancy\flatworld\training\AssemblyDemo\CalculatorLib\obj\Debug\net6.0\refint\CalculatorLib.dll
+E:\kaushalya.tech\consultancy\flatworld\training\AssemblyDemo\CalculatorLib\obj\Debug\net6.0\CalculatorLib.pdb
+E:\kaushalya.tech\consultancy\flatworld\training\AssemblyDemo\CalculatorLib\obj\Debug\net6.0\ref\CalculatorLib.dll

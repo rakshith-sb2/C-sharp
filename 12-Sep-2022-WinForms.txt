@@ -6,3 +6,15 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflec
 3. exe,dll, referring dll in other
 projects
 4. Windows Forms
+
+
+Assembly
+
+Step 1 - Create Blank Solution project
+Step 2 - Add a console based project - exe
+Step 3 - Create class library project
+
+
+
+
+
