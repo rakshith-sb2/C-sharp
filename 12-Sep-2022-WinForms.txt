@@ -1,0 +1,8 @@
+Agenda:
+1. Review test
+2. Reflection
+https://www.geeksforgeeks.org/what-is-reflection-in-c-sharp/
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection
+3. exe,dll, referring dll in other
+projects
+4. Windows Forms
