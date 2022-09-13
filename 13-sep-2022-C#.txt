@@ -96,6 +96,31 @@ where code = 1
 delete from corona where code = 1
 
 
+17. Aggregate functions
+min,max,avg,sum
+
+select * from products
+select min(price) as minprice from products
+select max(price) as maxprice from products
+select sum(price) as totalprice from products
+select avg(price) as avgprice from products
+
+18. Join multiple tables
+select * from customers,orders
+where customers.customerid = orders.customerid and
+customers.country='Germany'
+
+
+select customername,orderid,orderdate from customers,orders
+where customers.customerid = orders.customerid and
+customers.country='Germany'
+
+
+
+
+
+
+
 
 
 
