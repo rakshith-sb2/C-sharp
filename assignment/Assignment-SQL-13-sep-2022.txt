@@ -1,0 +1,20 @@
+1. Create cwg table
+having following columns
+code - int - primary key
+name - varchar
+year - int - primary key
+gold - int
+silver - int
+bronze - int
+
+2. Insert 5 records each for top 5
+countries on 2022 and 2018 cwg games
+3. Display the country which has won
+maximum gold in 2022 and 2018
+5. Display average silver won by countries
+in 2018
+6. Update record of India
+incrase silver by 5 for year 2022
+7. Delete record of Srilanka
+8. Find the countries starting 
+with I
