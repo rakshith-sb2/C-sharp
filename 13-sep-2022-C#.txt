@@ -61,6 +61,44 @@ select count(*) as totalcustomer from customers where country='Germany'
 
 select * from customers where city like 'S%'
 
+8. Display unique countries
+select distinct country from customers
+
+9. Display customers in the ascending order of country name
+select * from customers order by country asc
+
+10. Display customers in the descending order of country name
+select * from customers order by country desc
+
+12. Create a database
+CREATE DATABASE databasename;
+13. create a table corona
+with columns code,name,active,recovered,death,total
+
+create table corona(
+code int not null primary key,
+name varchar(100),
+active int,
+recovered int,
+death int,
+total int
+)
+
+14. Insert records into corona table
+insert into corona values (1,'Karnataka',1000,8000,1000,10000)
+insert into corona values (2,'Kerala',2000,16000,2000,20000)
+
+15. Update records add 100 more active cases in karnataka
+update corona set active = active+100,total = total+100
+where code = 1
+
+16. Delete a record
+delete from corona where code = 1
+
+
+
+
+
 
 
 
