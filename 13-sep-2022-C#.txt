@@ -1,0 +1,69 @@
+Agenda:
+1. Review of Assignment
+2. Windows Form App
+User Interface
+
+Step 1 - Create a blank project
+WindowsFormDemo
+Step 2 - Windows Form .Net
+
+SQL - Structured Query Language
+
+Database-RDBMS - Relational DBMS
+Oracle
+MSSQL
+MYSQL
+Sybase
+DB2
+Postgres
+
+SQL
+Steps 
+1. Create a database
+2. Create tables
+3. Insert data
+4. Queries
+
+Tables are available in w3schools
+customers
+1. Display data from customers table
+select * from customers
+2. Display only customername,city and country
+select customername,city,country from customers
+3. Display customers from Germany
+select customername,city,country from customers
+where country='Germany'
+4. Display customers from Germany who live in Berlin
+select customername,city,country from customers
+where country='Germany' and city='Berlin'
+5. Display customers from Germany who live in Berlin or Stuttgart
+
+select customername,city,country from customers
+where country='Germany' and city='Berlin' or city ='Stuttgart'
+
+second way
+
+select customername,city,country from customers
+where country='Germany' and city in ('Berlin','Stuttgart')
+
+not in 
+
+select customername,city,country from customers
+where country='Germany' and city not in ('Berlin','Stuttgart')
+
+6. Display total number of customers from Germany
+
+select count(*) from customers where country='Germany'
+
+select count(*) as totalcustomer from customers where country='Germany'
+
+7. Display customers who live in a city which starts with s
+
+select * from customers where city like 'S%'
+
+
+
+
+
+
+

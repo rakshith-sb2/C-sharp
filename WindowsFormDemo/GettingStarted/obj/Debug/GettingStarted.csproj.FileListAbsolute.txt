@@ -1,0 +1,11 @@
+E:\kaushalya.tech\consultancy\flatworld\training\WindowsFormDemo\GettingStarted\bin\Debug\GettingStarted.exe.config
+E:\kaushalya.tech\consultancy\flatworld\training\WindowsFormDemo\GettingStarted\bin\Debug\GettingStarted.exe
+E:\kaushalya.tech\consultancy\flatworld\training\WindowsFormDemo\GettingStarted\bin\Debug\GettingStarted.pdb
+E:\kaushalya.tech\consultancy\flatworld\training\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.csproj.AssemblyReference.cache
+E:\kaushalya.tech\consultancy\flatworld\training\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.csproj.SuggestedBindingRedirects.cache
+E:\kaushalya.tech\consultancy\flatworld\training\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.Form1.resources
+E:\kaushalya.tech\consultancy\flatworld\training\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.Properties.Resources.resources
+E:\kaushalya.tech\consultancy\flatworld\training\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.csproj.GenerateResource.cache
+E:\kaushalya.tech\consultancy\flatworld\training\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.csproj.CoreCompileInputs.cache
+E:\kaushalya.tech\consultancy\flatworld\training\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.exe
+E:\kaushalya.tech\consultancy\flatworld\training\WindowsFormDemo\GettingStarted\obj\Debug\GettingStarted.pdb
