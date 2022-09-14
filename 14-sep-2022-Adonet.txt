@@ -1,0 +1,44 @@
+Agenda:
+Windows Form
+MS-SQL
+ADO .NET (ActiveX Data Object)
+MS-SQL Server
+Steps:
+
+1. Search for sql server management studio
+connect with windows authentication
+2. Create demodb (By right clicking on database)
+3. Create new table customer
+4. Insert following records
+insert into customer values(1,'raghu','raghu@gmail.com',9845547471,'1094,Indushankara','Bengaluru',560077)
+
+
+create supplier,shipper,product table and insert 3 to 4 records
+
+postman
+
+Primary key and foreign key
+
+CREATE TABLE Persons (
+    ID int NOT NULL,
+    LastName varchar(255) NOT NULL,
+    FirstName varchar(255),
+    Age int,
+    PRIMARY KEY (ID)
+);
+
+CREATE TABLE Orders (
+    OrderID int NOT NULL,
+    OrderNumber int NOT NULL,
+    PersonID int,
+    PRIMARY KEY (OrderID),
+    FOREIGN KEY (PersonID) REFERENCES Persons(PersonID)
+);
+
+
+
+
+
+
+
+

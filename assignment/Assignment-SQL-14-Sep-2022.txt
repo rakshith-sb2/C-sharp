@@ -1,0 +1,7 @@
+1. Create all the tables
+of w3schools sql in MS-SQL server using
+sql.
+customer,employee,supplier,shipper,
+category,product,order,orderdetails
+2. Insert atleast 5 records in each of the
+table
