@@ -8,6 +8,7 @@ Data Source - ipaddress or name of sql-server
 Database - Initial Catalog
 what kind of authentication - Windows Authentication
 
+Create a blank solution - adonetdemo
 Create new console app - adonetbasics
 
 
