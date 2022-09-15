@@ -20,3 +20,4 @@ E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonet
 E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\obj\Debug\net6.0\adonetbasics.pdb
 E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\obj\Debug\net6.0\adonetbasics.genruntimeconfig.cache
 E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\obj\Debug\net6.0\ref\adonetbasics.dll
+E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\adonetbasics.dll.config

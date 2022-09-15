@@ -1,11 +1,16 @@
-﻿using System.Data.SqlClient;
+﻿using adonetbasics;
+using System.Data.SqlClient;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("ADO .NET");
         Connection();
+        //BasicCRUD.GetConnection();       
+        //BasicCRUD.ReadData();
+        //BasicCRUD.InsertData();
+        //BasicCRUD.UpdateData();
     }
 
     static void Connection()

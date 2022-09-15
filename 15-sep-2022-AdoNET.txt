@@ -1,0 +1,14 @@
+Agenda:
+1. Review of Assignment on SQL
+2. ADO .NET - Continuation
+
+Steps to connect with MS-SQL Server DB
+1. Connection String
+Data Source - ipaddress or name of sql-server
+Database - Initial Catalog
+what kind of authentication - Windows Authentication
+
+Create new console app - adonetbasics
+
+
+
