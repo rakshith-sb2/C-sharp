@@ -52,7 +52,7 @@ namespace adonetbasics
 
         internal static void InsertData()
         {
-            string query = "insert into products values (2,'TV','Sony',60000)";
+            string query = "insert into products values (3,'Laptop','Apple',160000)";
             SqlConnection conn = GetConnection();
             SqlCommand cmd = new SqlCommand(query, conn);
             //SqlDataReader dr = cmd.ExecuteReader();

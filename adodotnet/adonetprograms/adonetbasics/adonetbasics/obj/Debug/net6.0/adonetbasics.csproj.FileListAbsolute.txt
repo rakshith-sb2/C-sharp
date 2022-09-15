@@ -21,3 +21,14 @@ E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonet
 E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\obj\Debug\net6.0\adonetbasics.genruntimeconfig.cache
 E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\obj\Debug\net6.0\ref\adonetbasics.dll
 E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\adonetbasics.dll.config
+E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\kaushalya.tech\consultancy\flatworld\training\adodotnet\adonetprograms\adonetbasics\adonetbasics\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

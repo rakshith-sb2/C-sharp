@@ -6,11 +6,12 @@ internal class Program
     private static void Main(string[] args)
     {
         Console.WriteLine("ADO .NET");
-        Connection();
+        //Connection();
         //BasicCRUD.GetConnection();       
         //BasicCRUD.ReadData();
         //BasicCRUD.InsertData();
         //BasicCRUD.UpdateData();
+        CRUDWithConfigurationManager.EmployeeCRUD();
     }
 
     static void Connection()
