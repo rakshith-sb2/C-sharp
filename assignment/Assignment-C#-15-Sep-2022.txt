@@ -1,0 +1,18 @@
+1. create a WorldCupT20 Form using Windows Form App
+Having following fields
+
+country name:
+matches played:
+won
+lost
+points
+
+On Submit You have to save data to 
+follwing table
+table : wct2022
+code - int - pk - auto increment
+name - varchar
+matches - int
+won - int
+lost - int
+points-int
