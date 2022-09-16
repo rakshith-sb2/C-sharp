@@ -18,6 +18,11 @@ namespace DelegateNOthers
         {
             return n1 - n2;
         }
+
+        public static int Multiply(int n1, int n2)
+        {
+            return n1 * n2;
+        }
     }
     
     internal class DelegateDemo
@@ -34,7 +39,11 @@ namespace DelegateNOthers
             calc = Calculator.Subtract;
             result = calc(100, 50);
             Console.WriteLine("Delegate method call : result of subtraction is " + result);
-
+            Console.WriteLine("Multicast delegate:");
+            Calculate calc1 = new Calculate(Calculator.Add);
+            calc1 += Calculator.Subtract;
+            int result1 = calc1(100, 10);
+            Console.WriteLine("Result "+ result1);
 
         }
     }
