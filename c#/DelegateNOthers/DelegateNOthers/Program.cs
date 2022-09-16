@@ -6,6 +6,7 @@ internal class Program
     {
         Console.WriteLine("Delegate Demo");
         //DelegateDemo.DemoDelegate();
-        AnonymousNLamda.AnonymousDemo();
+        // AnonymousNLamda.AnonymousDemo();
+        EventDemo.testEvent();
     }
 }
