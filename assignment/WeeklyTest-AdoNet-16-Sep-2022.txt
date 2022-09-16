@@ -1,0 +1,38 @@
+ADO .NET - Test
+Create IPL as an console based application
+
+1. Create an iplplayer table
+having following columns
+playerid - int -pk - auto number
+name - varchar(100) not null
+matches - int
+runs - int
+wickets - int
+
+2. Insert atleast 5 players (C# - user inputs)
+keep the matches,runs and wickets as zero
+while inserting data for the first time
+
+3. Create iplmatches table having fillowing fields
+
+matchid - int  
+playerid - int -references player id of iplplayer 
+table
+matchdate - date
+location - varchar
+runs - int
+wickets -int
+matchid and player id  is the
+combined primary key
+
+4. Whenever a match is played (C#) - get the user inputs
+then insert record for 5 players into
+iplmatches table
+and update the matches,runs and wickets in the 
+iplplayer  table
+
+5. User inputs options
+1. Add Player
+2. Display Players
+3. Play match
+4. Delete a player
