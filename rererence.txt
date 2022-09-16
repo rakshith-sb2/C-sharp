@@ -1,3 +1,6 @@
 https://www.tutorialsteacher.com/articles/command-line-arguments-csharp-console-app
 https://www.youtube.com/watch?v=Wjq9EAH93NY&list=PLX07l0qxoHFJpxz244yz8xto3oPGhJegQ
 https://learningneverendstech.com/2021/10/24/introduction-to-microsoft-ado-net/
+https://learningneverendstech.com/2021/12/17/delegates-types-of-delegates-in-c/
+https://learningneverendstech.com/2022/01/12/anonymous-method-anonymous-function-in-c/
+https://www.youtube.com/watch?v=A8GsRpQHhro

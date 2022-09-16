@@ -1,5 +1,10 @@
 ﻿using adonetbasics;
+using System;
 using System.Data.SqlClient;
+
+// Multiple delegates
+public delegate void Calculate(int n1, int n2);
+public delegate void Display();
 
 internal class Program
 {
@@ -11,7 +16,25 @@ internal class Program
         //BasicCRUD.ReadData();
         //BasicCRUD.InsertData();
         //BasicCRUD.UpdateData();
-        CRUDWithConfigurationManager.EmployeeCRUD();
+        //       CRUDWithConfigurationManager.EmployeeCRUD();
+        // Single Cast Delegate
+        Calculate obj = new Calculate(DelegateDemo.Addition);
+        obj.Invoke(10,20);
+
+        obj = new Calculate(DelegateDemo.Multiplication);
+        obj.Invoke(10, 20);
+        obj = DelegateDemo.Division;
+        obj(10, 5);
+
+        Display dsp = new Display(DelegateDemo.show);
+        dsp();
+        Console.WriteLine("Multi Cast Delegate");
+        // Multi cast delegates
+        Calculate objmul = new Calculate(DelegateDemo.Addition);
+        objmul += DelegateDemo.Multiplication;
+        objmul(10,5);
+        AnonymousNLambdaFunctions.AnonymousDemo();
+        EventDemo.testEvent();
     }
 
     static void Connection()

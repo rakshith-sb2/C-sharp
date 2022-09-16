@@ -1,0 +1,9 @@
+Agenda:
+1. Review of Assignment
+2. Delegate
+3. Anonymous Functions
+4. Lamdba functions
+5. Events
+ADO .NET
+6. DataSet
+7. DataTable

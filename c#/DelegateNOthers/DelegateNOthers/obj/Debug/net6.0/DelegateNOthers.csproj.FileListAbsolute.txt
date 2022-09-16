@@ -1,0 +1,15 @@
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\bin\Debug\net6.0\DelegateNOthers.exe
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\bin\Debug\net6.0\DelegateNOthers.deps.json
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\bin\Debug\net6.0\DelegateNOthers.runtimeconfig.json
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\bin\Debug\net6.0\DelegateNOthers.dll
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\bin\Debug\net6.0\DelegateNOthers.pdb
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\obj\Debug\net6.0\DelegateNOthers.csproj.AssemblyReference.cache
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\obj\Debug\net6.0\DelegateNOthers.GeneratedMSBuildEditorConfig.editorconfig
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\obj\Debug\net6.0\DelegateNOthers.AssemblyInfoInputs.cache
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\obj\Debug\net6.0\DelegateNOthers.AssemblyInfo.cs
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\obj\Debug\net6.0\DelegateNOthers.csproj.CoreCompileInputs.cache
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\obj\Debug\net6.0\DelegateNOthers.dll
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\obj\Debug\net6.0\refint\DelegateNOthers.dll
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\obj\Debug\net6.0\DelegateNOthers.pdb
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\obj\Debug\net6.0\DelegateNOthers.genruntimeconfig.cache
+E:\kaushalya.tech\consultancy\flatworld\training\c#\DelegateNOthers\DelegateNOthers\obj\Debug\net6.0\ref\DelegateNOthers.dll
