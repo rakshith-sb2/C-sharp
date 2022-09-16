@@ -5,6 +5,7 @@ internal class Program
     private static void Main(string[] args)
     {
         Console.WriteLine("Delegate Demo");
-        DelegateDemo.DemoDelegate();
+        //DelegateDemo.DemoDelegate();
+        AnonymousNLamda.AnonymousDemo();
     }
 }
