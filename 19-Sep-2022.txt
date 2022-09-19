@@ -1,0 +1,11 @@
+1 .NET Framework architecture
+2. Application Architecture
+Client - Server
+2 - tier architecture
+3 - tier architecture
+n - n tier architecture
+
+https://learn.microsoft.com/en-us/answers/questions/573547/i-can39t-find-aspnet-web-application-net-framework.html
+
+
+

@@ -1,5 +1,6 @@
 ﻿using adonetbasics;
 using System;
+using System.Data;
 using System.Data.SqlClient;
 
 // Multiple delegates
@@ -18,6 +19,7 @@ internal class Program
         //BasicCRUD.UpdateData();
         //       CRUDWithConfigurationManager.EmployeeCRUD();
         // Single Cast Delegate
+        /**
         Calculate obj = new Calculate(DelegateDemo.Addition);
         obj.Invoke(10,20);
 
@@ -35,6 +37,9 @@ internal class Program
         objmul(10,5);
         AnonymousNLambdaFunctions.AnonymousDemo();
         EventDemo.testEvent();
+        **/
+        //DataSetDemo.demoDataSet();
+        DatatablesDemo.demoDataTable();
     }
 
     static void Connection()
