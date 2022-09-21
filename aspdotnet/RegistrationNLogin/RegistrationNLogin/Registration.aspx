@@ -69,7 +69,12 @@
                 </tr>
                 <tr>
                     <td colspan="2">
-                        <asp:Button ID="Button1" runat="server" Text="Register" />
+                        <asp:Button ID="Button1" runat="server" Text="Register" OnClick="Button1_Click" />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <asp:ValidationSummary ID="ValidationSummary1" runat="server" BackColor="#FF0066" />
                     </td>
                 </tr>
             </table>

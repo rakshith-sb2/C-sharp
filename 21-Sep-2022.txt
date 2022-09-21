@@ -15,6 +15,18 @@ RequiredFieldvaliator
 Display - Dynamic
 Control to validate - select appropriate controls
 Font Color - Red
+Validation Summary
+
+4. Saving Data
+New Item - SQL Server Database
+Demodb.mdf
+
+5. View -> Server Explorer
+Add new table
+
+
+
+
 
 
 
