@@ -1,0 +1,8 @@
+1. Application Architecture
+2. ASP .NET
+
+
+            string  name = NameTextBox.Text;
+            string email = EMailTextBox.Text;
+            string password = PasswordTextBox.Text;
+            Page.ClientScript.RegisterStartupScript(this.GetType(), "Scripts", "<script>alert('Registration Successful')</script>");
