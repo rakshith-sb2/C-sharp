@@ -1,0 +1,38 @@
+Agenda:
+ASP .NET Web Forms
+1. Saving data of a Form
+2. Retrieving data from the db and
+displaying in a view
+3. Validation
+
+Steps:
+
+1. Create a new project using ASP .NET Webapplication
+project template. Select Empty Project Template
+2. Create a Registration WebForm
+3. Add validators
+RequiredFieldvaliator
+Display - Dynamic
+Control to validate - select appropriate controls
+Font Color - Red
+Validation Summary
+
+4. Saving Data
+New Item - SQL Server Database
+Demodb.mdf
+
+5. View -> Server Explorer
+Add new table
+
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\kaushalya.tech\consultancy\flatworld\training\aspdotnet\RegistrationNLogin\RegistrationNLogin\App_Data\Demodb.mdf;Integrated Security=True
+
+
+
+
+
+
+
+
+
+
+ 
