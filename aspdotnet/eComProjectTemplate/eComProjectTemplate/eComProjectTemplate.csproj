@@ -68,7 +68,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AboutUs.aspx" />
+    <Content Include="App_Data\eCommDB.mdf" />
+    <Content Include="App_Data\eCommDB_log.ldf">
+      <DependentUpon>eCommDB.mdf</DependentUpon>
+    </Content>
     <Content Include="ContactUs.aspx" />
+    <Content Include="css\style.css" />
     <Content Include="Default.aspx" />
     <Content Include="Product.aspx" />
     <Content Include="Web.config" />
