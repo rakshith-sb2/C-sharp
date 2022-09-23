@@ -1,0 +1,17 @@
+﻿.container {
+    background-color:lightblue;
+    border: 1px solid brown;
+    width:90%;
+    margin:auto;
+}
+
+.content {
+    border: 2px solid blue;
+    height:400px;
+}
+
+.footer {
+    border: 2px solid black;
+    height: 50px;
+}
+

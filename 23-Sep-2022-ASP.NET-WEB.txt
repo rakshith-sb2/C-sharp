@@ -1,0 +1,20 @@
+1. Master Page
+2. Stored procedure
+3. Calling stored procedure
+4. Displaying data in DataTable/DataSet
+5. CRUD
+
+
+https://www.aspsnippets.com/Articles/Load-Fill-Populate-DataTable-from-Stored-Procedure-in-ASPNet-using-C-and-VBNet.aspx
+
+
+
+eComTemplate Project
+Step 1 -Create an ASP .NET Web Project
+Use Empty project option
+Step 2 - Add WebForms Master Page
+Guest Master
+Step 3 - Create AboutUs WebForm 
+using WebFormwithmaster page option
+
+
