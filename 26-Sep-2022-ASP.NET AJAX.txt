@@ -1,0 +1,19 @@
+Agenda:
+1. Review of assignment - CRUD/Stored Procedure-done
+2. Weekly test
+3. Custom Validation
+4. View State vs Session Vs Application State
+Application State
+Page level (Web form level)- View state
+Session level (User level)- Session State
+Application level - Application State
+5. Introduction to AJAX
+
+Practice
+Custom Validator
+1. https://www.youtube.com/watch?v=Y0lI0lDGXIw&list=PLX07l0qxoHFJ5OEtViL4Z4YTp0QwXUhqN&index=10
+View State,Session State,Application State
+2. https://www.youtube.com/watch?v=LJkv3dlLqwg&list=PLX07l0qxoHFJ5OEtViL4Z4YTp0QwXUhqN&index=12
+3. https://www.youtube.com/watch?v=lFFp4GvDUQw&list=PLX07l0qxoHFJ5OEtViL4Z4YTp0QwXUhqN&index=14
+
+

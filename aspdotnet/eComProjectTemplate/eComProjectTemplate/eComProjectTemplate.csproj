@@ -74,8 +74,12 @@
     </Content>
     <Content Include="ContactUs.aspx" />
     <Content Include="css\style.css" />
+    <Content Include="CustomValidator.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Product.aspx" />
+    <Content Include="StateForm1.aspx" />
+    <Content Include="StateForm2.aspx" />
+    <Content Include="StateForm3.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -92,6 +96,13 @@
     </Compile>
     <Compile Include="ContactUs.aspx.designer.cs">
       <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomValidator.aspx.cs">
+      <DependentUpon>CustomValidator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomValidator.aspx.designer.cs">
+      <DependentUpon>CustomValidator.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
@@ -115,6 +126,27 @@
       <DependentUpon>Product.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StateForm1.aspx.cs">
+      <DependentUpon>StateForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StateForm1.aspx.designer.cs">
+      <DependentUpon>StateForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StateForm2.aspx.cs">
+      <DependentUpon>StateForm2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StateForm2.aspx.designer.cs">
+      <DependentUpon>StateForm2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StateForm3.aspx.cs">
+      <DependentUpon>StateForm3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StateForm3.aspx.designer.cs">
+      <DependentUpon>StateForm3.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Guest.Master" />
