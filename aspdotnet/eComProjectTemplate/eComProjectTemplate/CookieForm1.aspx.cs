@@ -17,7 +17,8 @@ namespace eComProjectTemplate
         protected void Button1_Click(object sender, EventArgs e)
         {
             HttpCookie cookie = new HttpCookie("user");
-            cookie["username"]=NameTextBox.Text;    
+            cookie["username"]=NameTextBox.Text;
+            cookie.Expires = DateTime.Now.AddDays(1);
             Response.Cookies.Add(cookie);
             Response.Redirect("CookieForm2.aspx");
         }

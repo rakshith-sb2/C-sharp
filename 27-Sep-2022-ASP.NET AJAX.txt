@@ -2,4 +2,5 @@ Agenda:
 1. Review of practice assignment
 2. Discussion on Custom Validation and Application
 State
-3. Introduction to AJAX
+3. Cookie
+4. Introduction to AJAX
