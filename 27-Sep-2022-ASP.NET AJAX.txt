@@ -4,3 +4,49 @@ Agenda:
 State
 3. Cookie
 4. Introduction to AJAX
+https://jsonlint.com/
+
+{
+"code":1,
+"name":"Manoj"
+}
+
+
+
+[
+  {
+	"code": 1,
+	"name": "Manoj"
+	},
+  {
+	"code": 2,
+	"name": "kaif"
+	}
+
+]
+
+
+Form - submit the data of the form
+
+http methods - post,get,delete,put
+
+http://jsonplaceholder.typicode.com/
+
+End point : URL
+http://jsonplaceholder.typicode.com/todos
+https://jsonplaceholder.typicode.com/todos/1
+
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "delectus aut autem",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "quis ut nam facilis et officia qui",
+    "completed": false
+  }
+]
