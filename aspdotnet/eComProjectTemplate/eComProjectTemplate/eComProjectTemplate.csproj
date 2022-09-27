@@ -73,6 +73,8 @@
       <DependentUpon>eCommDB.mdf</DependentUpon>
     </Content>
     <Content Include="ContactUs.aspx" />
+    <Content Include="CookieForm1.aspx" />
+    <Content Include="CookieForm2.aspx" />
     <Content Include="css\style.css" />
     <Content Include="CustomValidator.aspx" />
     <Content Include="Default.aspx" />
@@ -96,6 +98,20 @@
     </Compile>
     <Compile Include="ContactUs.aspx.designer.cs">
       <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CookieForm1.aspx.cs">
+      <DependentUpon>CookieForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CookieForm1.aspx.designer.cs">
+      <DependentUpon>CookieForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CookieForm2.aspx.cs">
+      <DependentUpon>CookieForm2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CookieForm2.aspx.designer.cs">
+      <DependentUpon>CookieForm2.aspx</DependentUpon>
     </Compile>
     <Compile Include="CustomValidator.aspx.cs">
       <DependentUpon>CustomValidator.aspx</DependentUpon>
