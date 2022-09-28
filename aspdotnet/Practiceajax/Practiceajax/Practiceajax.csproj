@@ -71,10 +71,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="NewPasswordStrength.aspx" />
     <Content Include="PasswordStrength.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NewPasswordStrength.aspx.cs">
+      <DependentUpon>NewPasswordStrength.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NewPasswordStrength.aspx.designer.cs">
+      <DependentUpon>NewPasswordStrength.aspx</DependentUpon>
+    </Compile>
     <Compile Include="PasswordStrength.aspx.cs">
       <DependentUpon>PasswordStrength.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
