@@ -1,0 +1,10 @@
+Agenda:
+1. Review of Assignment
+2. AJAX Post method
+3. AJAX.NET
+
+Required Libraries..
+https://www.devexpress.com/products/ajax-control-toolkit/
+https://www.aspsnippets.com/Articles/Install-AJAX-Control-Toolkit-in-Visual-Studio-ToolBox.aspx
+
+

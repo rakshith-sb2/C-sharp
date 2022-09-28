@@ -8,3 +8,11 @@ https://learn.microsoft.com/en-us/answers/questions/573547/i-can39t-find-aspnet-
 https://learningneverendstech.com/2021/10/27/sqldataadapter-class-in-ado-net/
 https://learningneverendstech.com/2021/10/30/crud-operations-in-asp-net-mvc-using-ado-net/
 https://learningneverendstech.com/2021/10/28/dataset-in-ado-net/
+
+AJAX
+https://www.devexpress.com/products/ajax-control-toolkit/
+https://learn.microsoft.com/en-us/aspnet/web-forms/overview/ajax-control-toolkit/getting-started/get-started-with-the-ajax-control-toolkit-cs
+
+http://devexpress.com/act
+https://www.aspsnippets.com/Articles/Install-AJAX-Control-Toolkit-in-Visual-Studio-ToolBox.aspx
+
