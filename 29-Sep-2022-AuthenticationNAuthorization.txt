@@ -1,0 +1,11 @@
+Agenda:
+1. Review of the assignments
+2. Local Business use case for a project
+3. Security
+Windows Authentication
+Form based - without database
+Form based - with database
+Encrypting password
+access rights
+
+

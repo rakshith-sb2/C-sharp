@@ -16,3 +16,10 @@ https://learn.microsoft.com/en-us/aspnet/web-forms/overview/ajax-control-toolkit
 http://devexpress.com/act
 https://www.aspsnippets.com/Articles/Install-AJAX-Control-Toolkit-in-Visual-Studio-ToolBox.aspx
 
+https://www.c-sharpcorner.com/article/authentication-and-authorization-in-Asp-Net/
+https://www.aspsnippets.com/Articles/Role-based-Authorization-and-Authentication-in-ASPNet.aspx
+
+https://www.aspsnippets.com/Articles/Simple-User-Registration-Form-Example-in-ASPNet.aspx
+https://www.aspsnippets.com/Articles/Role-based-Authorization-and-Authentication-in-ASPNet.aspx
+
+
