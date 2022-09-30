@@ -4,3 +4,4 @@ Agenda:
 https://www.c-sharpcorner.com/UploadFile/0c1bb2/fill-Asp-Net-dropdown-list-from-database-table-using-Asp-Net/
 https://www.aspsnippets.com/Articles/Assign-Roles-to-Users-in-ASPNet-Form-Based-Authentication.aspx
 https://www.c-sharpcorner.com/UploadFile/37db1d/looking-inside-global-asax-application-file-in-Asp-Net-3-5/
+https://www.c-sharpcorner.com/UploadFile/ishbandhu2009/role-based-authorization/
