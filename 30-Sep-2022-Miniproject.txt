@@ -1,0 +1,5 @@
+Agenda:
+1. Review of assignment
+2. Mini project - Local Business
+https://www.c-sharpcorner.com/UploadFile/0c1bb2/fill-Asp-Net-dropdown-list-from-database-table-using-Asp-Net/
+https://www.aspsnippets.com/Articles/Assign-Roles-to-Users-in-ASPNet-Form-Based-Authentication.aspx
