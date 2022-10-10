@@ -1,9 +1,6 @@
 Agenda:
 1. Bootstrap
 2. Introduction to .NET Core and MVC
-
-
-
-
+.NET Vs .NET Core
 
 https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-controller?view=aspnetcore-6.0&tabs=visual-studio

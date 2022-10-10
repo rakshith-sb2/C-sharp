@@ -1,0 +1,7 @@
+Agenda:
+1. Review of Assignment
+2. Language Integrated Query (LINQ)
+SQL - Structured Query Language
+https://www.tutorialsteacher.com/linq
+
+3. Razor Pages - .NET Core
