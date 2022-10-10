@@ -1,0 +1,16 @@
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\bin\Debug\netcoreapp3.1\LinqJson.exe
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\bin\Debug\netcoreapp3.1\LinqJson.deps.json
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\bin\Debug\netcoreapp3.1\LinqJson.runtimeconfig.json
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\bin\Debug\netcoreapp3.1\LinqJson.runtimeconfig.dev.json
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\bin\Debug\netcoreapp3.1\LinqJson.dll
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\bin\Debug\netcoreapp3.1\LinqJson.pdb
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.csproj.AssemblyReference.cache
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.GeneratedMSBuildEditorConfig.editorconfig
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.AssemblyInfoInputs.cache
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.AssemblyInfo.cs
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.csproj.CoreCompileInputs.cache
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.csproj.CopyComplete
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.dll
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.pdb
+E:\kaushalya.tech\consultancy\flatworld\training\dotnetcore\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.genruntimeconfig.cache

@@ -1,7 +1,30 @@
 Agenda:
 1. Review of Assignment
+a. Landing page - all
+b. Login as admin - 10 not done - 20 done
+add a new service - Computer Service
+c. Service Provider - 9 not done
+Create a new service provider - XYZ
+add Computer Service for the new service provider
+d. Service Seeker (customer)
+Create new service seeker
+Search for computer service
+book for this service
+Under my bookings - 
+e. Login as service provider - xyz
+should be displayed list of bookings
+Accepts - completed - comments
+f. Login as service seeker
+service seeker should be able to see
+this booking and update the comment and rating
+
+
+
 2. Language Integrated Query (LINQ)
 SQL - Structured Query Language
 https://www.tutorialsteacher.com/linq
+https://github.com/aksoftware98/linqtutorial
+https://www.youtube.com/watch?v=s3-scps6dpM
+https://www.c-sharpcorner.com/UploadFile/3d39b4/simple-select-insert-update-and-delete-using-linq-to-sql/
 
 3. Razor Pages - .NET Core
