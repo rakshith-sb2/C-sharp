@@ -1,0 +1,20 @@
+Agenda:
+1. Review of Mini project
+2. .Net Core Types of Project
+a. .NET Core Empty
+b. .NET core Razor Web Application
+c. .NET core Web MVC
+d. .NET core WEB API
+c. .NET core with library
+
+3. .Net Core Empty project
+4. Razor pages
+5. .Net core Web with Razor pages
+
+practicals
+1. ASP .NET Core Empty
+2. Razer page project
+https://www.tutorialsteacher.com/mvc/razor-syntax
+ASP .NET core web app
+learn microsoft razor pages
+https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-6.0&tabs=visual-studio
