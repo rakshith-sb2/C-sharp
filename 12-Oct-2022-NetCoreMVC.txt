@@ -1,0 +1,10 @@
+Agenda:
+1. Review of the assignment - Local business
+2. Review of assignment - Razor Page
+3. .Net core MVC
+4. Workflow of Entity Framework
+Code first approach
+Data first approach
+Model first approach
+
+https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio
