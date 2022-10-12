@@ -8,3 +8,7 @@ Data first approach
 Model first approach
 
 https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio
+https://www.c-sharpcorner.com/article/entity-framework-database-first-in-asp-net-core2/
+www.entityframeworktutorial.net
+https://learn.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-6.0
+
