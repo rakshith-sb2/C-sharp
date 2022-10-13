@@ -12,3 +12,4 @@ https://www.c-sharpcorner.com/article/entity-framework-database-first-in-asp-net
 www.entityframeworktutorial.net
 https://learn.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-6.0
 
+
