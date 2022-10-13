@@ -23,3 +23,10 @@ https://www.aspsnippets.com/Articles/Simple-User-Registration-Form-Example-in-AS
 https://www.aspsnippets.com/Articles/Role-based-Authorization-and-Authentication-in-ASPNet.aspx
 tutorials teacher linq
 
+https://github.com/bhrugen/Bulky
+https://bulkybook.azurewebsites.net/
+https://www.dotnetmastery.com/
+
+https://github.com/dotnet/AspNetCore.Docs/tree/main/aspnetcore/data/ef-mvc/intro/samples/cu-final
+
+
