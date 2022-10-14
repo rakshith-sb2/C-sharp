@@ -2,7 +2,6 @@ Agenda:
 1. Review of assignment
 https://learn.microsoft.com/en-us/aspnet/core/data/ef-rp/intro?view=aspnetcore-6.0&tabs=visual-studio
 2. .NET Core MVC
-
-DB first approach..
+DB first approach.. MVC
 https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/database-first-development/
 

@@ -28,5 +28,12 @@ https://bulkybook.azurewebsites.net/
 https://www.dotnetmastery.com/
 
 https://github.com/dotnet/AspNetCore.Docs/tree/main/aspnetcore/data/ef-mvc/intro/samples/cu-final
+https://www.learnentityframeworkcore.com/walkthroughs/existing-database
+
+https://medium.com/net-core/build-a-restful-web-api-with-asp-net-core-6-30747197e229
+https://www.c-sharpcorner.com/article/task-and-thread-in-c-sharp/
+https://github.com/melardev/ApiAspCoreEcommerce
+https://github.com/TryCatchLearn/DatingApp
+
 
 
