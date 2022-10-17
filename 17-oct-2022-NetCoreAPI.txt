@@ -2,7 +2,6 @@ Agenda:
 1. Review of Assignment
 2. Creating Web API using database first
 approach
-
 a. Create localbusinessnew database
 b. create users and serviceprovider table
 c. create .net core webapi project
@@ -37,6 +36,11 @@ api controller actions with entity framework option
 select model name and context
 f. Run the project to check functioning
 of webapi
+
+
+i. for new table
+
+Scaffold-DbContext "Data Source=RAGHUPRASAD;Initial Catalog=localbusiness;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Table dbo.userrole -force
 
 3. Consuming Web API
 4. Introduction to React
