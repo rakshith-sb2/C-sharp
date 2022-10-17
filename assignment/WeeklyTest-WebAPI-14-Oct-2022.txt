@@ -1,0 +1,13 @@
+1. Create following webapi's
+a. api/user
+CRUD Operation for registration
+user - ID,name,email,mobile,password
+same as movie
+b. api/login (only post method)
+should be able to login post request
+emailid,password
+it should return the user (table is user)
+c. api/serviceprovider (CRUD)
+serviceprovider - ID,name,status(serviceprovider)
+post method should return the service provider
+with the id (same as post method of movie)

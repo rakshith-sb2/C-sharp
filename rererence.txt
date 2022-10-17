@@ -35,5 +35,21 @@ https://www.c-sharpcorner.com/article/task-and-thread-in-c-sharp/
 https://github.com/melardev/ApiAspCoreEcommerce
 https://github.com/TryCatchLearn/DatingApp
 
+ALTER TABLE userrole
+   ADD CONSTRAINT FK_userrole_role FOREIGN KEY (roleid)
+      REFERENCES role (id)
+      ON DELETE CASCADE
+      ON UPDATE CASCADE
 
+Scaffold-DbContext "Data Source=RAGHUPRASAD;Initial Catalog=localbusiness;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/DB
+Scaffold-DbContext "Data Source=RAGHUPRASAD;Initial Catalog=localbusiness;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/DB -Table dbo.userrole
+Scaffold-DbContext "Data Source=RAGHUPRASAD;Initial Catalog=localbusiness;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/DB -Table dbo.userrole -force
 
+Scaffold-DbContext "Data Source=RAGHUPRASAD;Initial Catalog=localbusiness;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir models
+
+Install-Package Microsoft.EntityFrameworkCore.Tools
+
+Scaffold-DbContext "Data Source=RAGHUPRASAD;Initial Catalog=localbusiness;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Table dbo.userrole -force
+
+https://www.c-sharpcorner.com/article/create-user-login-and-registration-using-web-api-and-react-hooks/
+https://github.com/jaypalraj/CinemaBooking

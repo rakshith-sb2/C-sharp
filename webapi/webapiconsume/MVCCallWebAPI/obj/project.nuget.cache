@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rFw3I8Sins8+oQwITEfmTj+TlliWFkroGkptS8eFrXfKhdA4KQHH9spLhe7kn7v4AeACv/yXSlkS8E4RiHhvTQ==",
+  "success": true,
+  "projectFilePath": "E:\\kaushalya.tech\\consultancy\\flatworld\\training\\webapi\\webapiconsume\\MVCCallWebAPI\\MVCCallWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

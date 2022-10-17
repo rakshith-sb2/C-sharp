@@ -1,0 +1,42 @@
+Agenda:
+1. Review of Assignment
+2. Creating Web API using database first
+approach
+
+a. Create localbusinessnew database
+b. create users and serviceprovider table
+c. create .net core webapi project
+name it as localbusinessnewwebapi
+d. Install following packages
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Design
+d. create Models folder
+e. Package manager console type following command
+Scaffold-DbContext "Data Source=RAGHUPRASAD;Initial Catalog=localbusinessnew;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+f. Add db connection details to appsetting.json
+
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DevConnection": "Data Source=RAGHUPRASAD;Initial Catalog=localbusinessnew;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+  }
+}
+g. Add context details to programs.cs
+h. create controller - using scaffolded option
+-api-
+api controller actions with entity framework option
+select model name and context
+f. Run the project to check functioning
+of webapi
+
+3. Consuming Web API
+4. Introduction to React
