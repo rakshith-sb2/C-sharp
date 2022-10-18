@@ -16,9 +16,11 @@ namespace localbusinessnewwebapi.Models
         {
         }
 
-        public virtual DbSet<Serviceprovider> Serviceproviders { get; set; } = null!;
+        public virtual DbSet<Role> Roles { get; set; } = null!;
         public virtual DbSet<User> Users { get; set; } = null!;
+        public virtual DbSet<Serviceprovider> Serviceproviders { get; set; } = null!;
 
+        /**
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
@@ -30,9 +32,9 @@ namespace localbusinessnewwebapi.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Serviceprovider>(entity =>
+            modelBuilder.Entity<Role>(entity =>
             {
-                entity.ToTable("serviceprovider");
+                entity.ToTable("role");
 
                 entity.Property(e => e.Id).HasColumnName("id");
 
@@ -40,38 +42,13 @@ namespace localbusinessnewwebapi.Models
                     .HasMaxLength(50)
                     .IsUnicode(false)
                     .HasColumnName("name");
-
-                entity.Property(e => e.Status)
-                    .HasMaxLength(10)
-                    .IsUnicode(false)
-                    .HasColumnName("status");
-            });
-
-            modelBuilder.Entity<User>(entity =>
-            {
-                entity.ToTable("users");
-
-                entity.Property(e => e.Id).HasColumnName("id");
-
-                entity.Property(e => e.Email)
-                    .HasMaxLength(50)
-                    .IsUnicode(false)
-                    .HasColumnName("email");
-
-                entity.Property(e => e.Name)
-                    .HasMaxLength(50)
-                    .IsUnicode(false)
-                    .HasColumnName("name");
-
-                entity.Property(e => e.Password)
-                    .HasMaxLength(50)
-                    .IsUnicode(false)
-                    .HasColumnName("password");
             });
 
             OnModelCreatingPartial(modelBuilder);
         }
 
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
-    }
+    **/
+        }
+
 }

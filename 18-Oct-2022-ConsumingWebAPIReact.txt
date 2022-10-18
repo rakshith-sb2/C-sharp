@@ -1,0 +1,39 @@
+Agenda:
+1. Review of Local Business Web API
+
+2. Consuming Web API
+3. React.js
+
+Projects
+1. LocalBusiness with .NET Core WebMVC
+Either DB First or Code first
+a. Registration,Login - 3 roles
+admin,customer,service provider
+Registration,Login and Home page for
+respective logins
+2. Local Business with .NET Core WebAPI
++ .NET Core WebMVC
+3. Local Business with .NET Core WebAPI
++ React
+4. Local Business with .NET Core WebAPI
++ Angular
+
+User Management,Role Management
+
+
+Tasks.
+1. create new db localdbdemo
+2. Add users table
+id,name,email,mobile,password
+3. create localdemowebapi project
+4. Generate model using dbfirst approach
+5. Test api is working fine
+
+Tasks.
+1. create localdemoclient .NET CORE WEB MVC project
+2. Generate model using dbfirst approach
+3. Create controller for user and test the working
+4. Add a link for User in the _layout.cshtml 
+5. Modify usercontroller as per 
+https://github.com/raghuprasadks/cshapdotnet-sep-2022/tree/main/project/localbusinessclient/localbusinessclient
+
