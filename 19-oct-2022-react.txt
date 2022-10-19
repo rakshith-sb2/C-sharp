@@ -1,0 +1,9 @@
+Agenda:
+1. React - Getting started
+2. Creating react components
+3. Functional Component
+4. UseState Hook
+5. Sample programs 
+
+Higher Order Functions
+
