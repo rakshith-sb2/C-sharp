@@ -7,3 +7,13 @@ Agenda:
 
 Higher Order Functions
 
+Assignment:
+1. Higher order functions
+
+2..NET core identity
+https://www.youtube.com/watch?v=HSP6EZ5i9RY&t=284s
+https://www.youtube.com/watch?v=A1Qjg4B0VnQ&t=194s
+
+
+
+
