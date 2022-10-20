@@ -4,3 +4,13 @@
 Assignment
 4. Integration of LocalBusiness
 into .NET Core Identity
+
+
+Assignment : 
+1. Add update functionality to todo
+Fullstack React + WebAPI
+2. https://www.youtube.com/watch?v=MV1rEWlcW7U
+3. git crash course
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+
