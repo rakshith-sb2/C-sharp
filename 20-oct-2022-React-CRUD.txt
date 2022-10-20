@@ -1,0 +1,6 @@
+1. Review of .NET Core Identity
+2. Higher order functions
+3. React UseEffect, CRUD
+Assignment
+4. Integration of LocalBusiness
+into .NET Core Identity
