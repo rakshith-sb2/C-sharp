@@ -53,3 +53,14 @@ Scaffold-DbContext "Data Source=RAGHUPRASAD;Initial Catalog=localbusiness;Integr
 
 https://www.c-sharpcorner.com/article/create-user-login-and-registration-using-web-api-and-react-hooks/
 https://github.com/jaypalraj/CinemaBooking
+
+Dating App
+https://github.com/TryCatchLearn/DatingApp
+mkdir DatingApp
+cd DatingApp
+dotnet --info
+dotnet --help
+dotnet new -h
+dotnet new sln
+dotnet new webapi -o API
+dotnet sln add API

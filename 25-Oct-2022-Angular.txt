@@ -1,0 +1,72 @@
+Flatworld-Fullstack-25Oct2022
+Tuesday, 25 October · 9:30am – 1:30pm
+Google Meet joining info
+Video call link: https://meet.google.com/jsi-gozg-iab
+Or dial: ‪(US) +1 440-462-3274‬ PIN: ‪584 306 742‬#
+More phone numbers: https://tel.meet/jsi-gozg-iab?pin=6023827084014
+
+Agenda:
+
+1. Angular
+Why,what and how..
+2. Architecture of Angular
+3. Pre-requisites 
+	a. node.js
+	b. Visual Studio Code/Sublime text
+4. Installation of angular
+type cmd in windows search
+type following command
+npm install -g @angular/cli
+
+To check the version
+ng version
+
+5. To create a project & code walk through
+ng new angularbasics
+
+cd angularbasics
+code .
+or open angularbasics folder using visual studio code
+
+ng serve --open
+
+Code flow starts from angular.json
+
+"index": "src/index.html",
+"main": "src/main.ts",
+
+in index.html
+<app-root></app-root> - selector
+
+in main.ts
+platformBrowserDynamic().bootstrapModule(AppModule)
+  .catch(err => console.error(err));
+
+import { AppModule } from './app/app.module';
+
+app.module.ts
+decorator
+@NgModule
+
+import { AppComponent } from './app.component';
+
+app.component.ts
+@Component
+
+
+app.component.html
+delete every line of code except
+for <router-outlet></router-outlet>
+
+6. create a new component
+ng g c datatypes
+ng - ANGULAR
+g - generate
+c - component
+<nameofthecomponent>
+It creates 4 files
+copy the selector app-datatypes
+and paste in app.component.html
+<h1>{{title}}</h1>
+<app-datatypes></app-datatypes>
+<router-outlet></router-outlet>

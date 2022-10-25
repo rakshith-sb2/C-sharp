@@ -1,0 +1,47 @@
+1. Review of Assignment
+2. End to end integration of 
+React and .NET Core API
+a. Copy the github link
+https://github.com/CodAffection/Quiz-App-with-React-Asp.Net-Core-API-Material-UI.git
+b. create projects folder
+go to projects folder
+cd 
+file explorer cmd
+mkdir reactquiz
+cd reactquiz
+git clone https://github.com/CodAffection/Quiz-App-with-React-Asp.Net-Core-API-Material-UI.git
+
+1.Setting up webapi project
+open visual studio 2022
+click on open project
+select  quizapi.sln
+2. check appsetting.json
+set db connection as per your system db 
+3. data migration
+click on package manager console
+type 
+update-database
+2. Setting up of front end project
+cd to quiz-quiz
+npm install
+
+
+Code walk through
+
+npmjs.com
+java script libraries
+
+
+
+
+3. React Hooks
+4. React Routes
+
+Assignment : 
+1. Add update functionality to todo
+Fullstack React + WebAPI
+2. https://www.youtube.com/watch?v=MV1rEWlcW7U
+3. git crash course
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+
