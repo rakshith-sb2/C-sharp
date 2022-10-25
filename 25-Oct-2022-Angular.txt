@@ -70,3 +70,8 @@ and paste in app.component.html
 <h1>{{title}}</h1>
 <app-datatypes></app-datatypes>
 <router-outlet></router-outlet>
+
+Assignment :
+1. Angular cli is working fine
+2. Assignment on react -local business
+3. git commands
