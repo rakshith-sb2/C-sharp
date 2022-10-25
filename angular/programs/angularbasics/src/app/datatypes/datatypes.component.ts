@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { TitleStrategy } from '@angular/router';
 
 @Component({
   selector: 'app-datatypes',
@@ -42,7 +43,7 @@ export class DatatypesComponent implements OnInit {
   anytype:any='any thing can be assignment'
 
   undefinedtype:undefined;
-
+  counter:number=0;
   constructor() {
     console.log('DatatypesComponent:constructor')
    }
@@ -53,6 +54,14 @@ export class DatatypesComponent implements OnInit {
 
   greet():string{
     return 'Deepavali Greetings'
+  }
+
+  buttonClicked():number{
+
+    this.counter=this.counter+1;
+    return this.counter;
+
+
   }
 
 }
