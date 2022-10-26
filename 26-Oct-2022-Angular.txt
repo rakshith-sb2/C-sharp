@@ -50,6 +50,25 @@ add following line in app.module.ts
 import {FormsModule} from '@angular/forms';
 
 
+5. Si component
+
+principal
+rate of interest
+time
+<calculate>
+
+
+6. Angular
+
+Create a simple calculator
+
+Enter a number <text box>
+Enter operator - <text box > (+,-,*,/)
+Enter another number <text box>
+<Calculate>
+<display result>
+
+
 
 
 
