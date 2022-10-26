@@ -1,0 +1,18 @@
+<h1>Employee Master</h1>
+
+<table>
+    <tr>
+        <th>Code</th>
+        <th>Name</th>
+        <th>Department</th>
+        <th>Designation</th>
+        <th>Salary</th>
+    </tr>
+    <tr *ngFor="let employee of employees">
+        <td>{{employee.code}}</td>
+        <td>{{employee.name}}</td>
+        <td>{{employee.dept}}</td>
+        <td>{{employee.desg}}</td>
+        <td *ngIf="displaysal">{{employee.sal}}</td>
+    </tr>
+</table>

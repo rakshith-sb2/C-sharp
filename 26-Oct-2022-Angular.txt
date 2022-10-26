@@ -1,0 +1,16 @@
+Assignment :
+1. Angular cli is working fine -done
+2. Assignment on react -local business - 6 done
+3. git commands - done
+
+Angular
+
+1. Create employee component inside components folder
+
+ng g c components/employee
+
+directives
+Structural directives
+*ngFor
+*ngIf
+
