@@ -14,3 +14,13 @@ Structural directives
 *ngFor
 *ngIf
 
+for change in source code
+
+git status
+git add .
+git commit -m "structural directive"
+git push -u origin main
+ng-template
+
+https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
+

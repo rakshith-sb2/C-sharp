@@ -1,6 +1,6 @@
 <h1>Employee Master</h1>
 
-<table>
+<table *ngIf="loaded else loading">
     <tr>
         <th>Code</th>
         <th>Name</th>
@@ -16,3 +16,6 @@
         <td *ngIf="displaysal">{{employee.sal}}</td>
     </tr>
 </table>
+<ng-template #loading>
+    <h1>loading....</h1>
+</ng-template>

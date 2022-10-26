@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class EmployeeComponent implements OnInit {
   employees:any=[]
   displaysal:boolean=false
-
+  loaded:boolean=false
   constructor() { }
 
   ngOnInit(): void {
@@ -44,6 +44,7 @@ export class EmployeeComponent implements OnInit {
       }
   
   ]
+  this.loaded=true
   }
 
 }
