@@ -24,3 +24,19 @@ ng-template
 
 https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
 
+2. Models
+
+create a folder models inside app
+
+create customer.ts 
+
+add Customer interface
+
+3. customer component
+create customer component using
+ng g c components/customer
+
+
+
+
+
