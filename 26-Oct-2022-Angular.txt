@@ -36,6 +36,21 @@ add Customer interface
 create customer component using
 ng g c components/customer
 
+4. Databinding
+
+one-way data binding - {{}} - bind data from component to a template
+two-way data binding - [()]
+
+create databinding component
+
+ng g c components/databinding
+
+
+add following line in app.module.ts
+import {FormsModule} from '@angular/forms';
+
+
+
 
 
 
