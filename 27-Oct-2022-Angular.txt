@@ -3,6 +3,22 @@ Agenda:
 a. Structural Directive - *ngIf,*ngFor,*ngSwitch
 
 https://codecraft.tv/courses/angular/built-in-directives/ngfor/
+https://www.techiediaries.com/examples/angular-14/bootstrap/
+
+add bootstrap css cdn in index.html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+alternative
+npm install bootstrap
+
+in angular.json modify following section
+
+"styles": [
+  "./node_modules/bootstrap/dist/css/bootstrap.css",
+  "src/styles.css"
+ ]
+"scripts": [
+    "node_modules/bootstrap/dist/js/bootstrap.min.js"
+]
 
 b. Attribute Directives -ngStyle,ngClass
 c. Custom directives
@@ -39,3 +55,8 @@ attribute
 
 create switchdemo component in components folder
 ng g c components/switchdemo
+
+2. ngStyle
+
+create styledemo component in components folder
+ng g c components/styledemo

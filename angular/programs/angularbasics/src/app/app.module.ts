@@ -10,6 +10,7 @@ import { DatabindingComponent } from './components/databinding/databinding.compo
 import {FormsModule} from '@angular/forms';
 import { SimpleinterestComponent } from './components/simpleinterest/simpleinterest.component';
 import { SwitchdemoComponent } from './components/switchdemo/switchdemo.component';
+import { StyledemoComponent } from './components/styledemo/styledemo.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { SwitchdemoComponent } from './components/switchdemo/switchdemo.componen
     CustomerComponent,
     DatabindingComponent,
     SimpleinterestComponent,
-    SwitchdemoComponent
+    SwitchdemoComponent,
+    StyledemoComponent
   ],
   imports: [
     BrowserModule,
