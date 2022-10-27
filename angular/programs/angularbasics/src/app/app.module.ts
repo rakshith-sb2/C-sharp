@@ -11,6 +11,7 @@ import {FormsModule} from '@angular/forms';
 import { SimpleinterestComponent } from './components/simpleinterest/simpleinterest.component';
 import { SwitchdemoComponent } from './components/switchdemo/switchdemo.component';
 import { StyledemoComponent } from './components/styledemo/styledemo.component';
+import { ClassdemoComponent } from './components/classdemo/classdemo.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { StyledemoComponent } from './components/styledemo/styledemo.component';
     DatabindingComponent,
     SimpleinterestComponent,
     SwitchdemoComponent,
-    StyledemoComponent
+    StyledemoComponent,
+    ClassdemoComponent
   ],
   imports: [
     BrowserModule,

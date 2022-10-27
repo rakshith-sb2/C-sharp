@@ -60,3 +60,9 @@ ng g c components/switchdemo
 
 create styledemo component in components folder
 ng g c components/styledemo
+
+3. ngClass
+
+create classdemo component in components folder
+ng g c components/classdemo
+
