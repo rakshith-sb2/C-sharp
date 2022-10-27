@@ -88,3 +88,14 @@ class="ng-untouched ng-pristine ng-invalid">
 <input _ngcontent-tbx-c49="" type="text" name="name" id="name" ngmodel="" required="" ng-reflect-required="" ng-reflect-name="name" ng-reflect-model="" 
 class="ng-dirty ng-valid ng-touched">
 
+
+Assignment :
+
+1. Create employee template driven form having following data
+code,name,dept,desg,salary
+2. Do validation for all fields
+3. On submission of the form list of employees should be displayed
+4. Dynamically add Delete and Update button to each employee record
+5. Implement Delete and Update functionality
+
+
