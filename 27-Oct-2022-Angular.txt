@@ -66,3 +66,25 @@ ng g c components/styledemo
 create classdemo component in components folder
 ng g c components/classdemo
 
+4. Forms
+
+create templateform component in components folder
+ng g c components/templateform
+
+form control
+valid,invalid
+dirty,prestine
+touched,untouched
+
+<input _ngcontent-lub-c49="" type="text" name="name" id="name" ngmodel="" ng-reflect-name="name" ng-reflect-model="" class="ng-untouched ng-pristine ng-valid">
+
+
+<input _ngcontent-lub-c49="" type="text" name="name" id="name" ngmodel="" ng-reflect-name="name" ng-reflect-model="" 
+class="ng-valid ng-touched ng-dirty">
+
+<input _ngcontent-tbx-c49="" type="text" name="name" id="name" ngmodel="" required="" ng-reflect-required="" ng-reflect-name="name" ng-reflect-model="" 
+class="ng-untouched ng-pristine ng-invalid">
+
+<input _ngcontent-tbx-c49="" type="text" name="name" id="name" ngmodel="" required="" ng-reflect-required="" ng-reflect-name="name" ng-reflect-model="" 
+class="ng-dirty ng-valid ng-touched">
+

@@ -12,6 +12,7 @@ import { SimpleinterestComponent } from './components/simpleinterest/simpleinter
 import { SwitchdemoComponent } from './components/switchdemo/switchdemo.component';
 import { StyledemoComponent } from './components/styledemo/styledemo.component';
 import { ClassdemoComponent } from './components/classdemo/classdemo.component';
+import { TemplateformComponent } from './components/templateform/templateform.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { ClassdemoComponent } from './components/classdemo/classdemo.component';
     SimpleinterestComponent,
     SwitchdemoComponent,
     StyledemoComponent,
-    ClassdemoComponent
+    ClassdemoComponent,
+    TemplateformComponent
   ],
   imports: [
     BrowserModule,
