@@ -5,7 +5,11 @@
     <input type="text" name="name" id="name" ngModel required #fullname="ngModel"><br>
     <p *ngIf="fullname.touched && !fullname.valid" [ngStyle]="{'color':'red'}">Name is Mandatory</p>
     <label>Email</label><br>
-    <input type="email" name="email" id="email" ngModel required><br>
+    <input type="email" name="email" id="email" ngModel required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"
+    #emailCtrl="ngModel"><br>
+    <p *ngIf="emailCtrl.touched && emailCtrl.errors?.['required']">Email is mandatory</p>
+    <p *ngIf="emailCtrl.errors && emailCtrl.errors?.['email'] && emailCtrl.touched">Email Address should be valid</p>
+    <p *ngIf="emailCtrl.errors && emailCtrl.errors?.['pattern'] && emailCtrl.touched">Email pattern should be valid</p>
     <label>Mobile</label><br>
     <input type="mobile" name="mobile" id="mobile" ngModel required><br>
     <label>Password</label><br>
