@@ -9,6 +9,7 @@ import { CustomerComponent } from './components/customer/customer.component';
 import { DatabindingComponent } from './components/databinding/databinding.component';
 import {FormsModule} from '@angular/forms';
 import { SimpleinterestComponent } from './components/simpleinterest/simpleinterest.component';
+import { SwitchdemoComponent } from './components/switchdemo/switchdemo.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { SimpleinterestComponent } from './components/simpleinterest/simpleinter
     EmployeeComponent,
     CustomerComponent,
     DatabindingComponent,
-    SimpleinterestComponent
+    SimpleinterestComponent,
+    SwitchdemoComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,41 @@
+Agenda:
+1. Built-in Directives
+a. Structural Directive - *ngIf,*ngFor,*ngSwitch
+
+https://codecraft.tv/courses/angular/built-in-directives/ngfor/
+
+b. Attribute Directives -ngStyle,ngClass
+c. Custom directives
+
+2. Forms
+a. Template driven forms
+
+Recap
+Directives
+*ngIf,*ngFor
+ngModel
+two way databinding
+
+one way databinding
+Databinding from component class to template
+- property binding - []
+From template to component
+event binding - ()
+Interpolation
+template - {{}}
+
+input type=text [(ngModel)]="name" name="name"
+
+
+attribute
+<h1 style="background-color:lightblue">This is h1</h1>
+
+attribute
+<p class="pclass">This is a paragraph</p>
+
+--hands-on--
+
+1. ngSwitch
+
+create switchdemo component in components folder
+ng g c components/switchdemo
