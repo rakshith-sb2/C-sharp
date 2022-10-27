@@ -3,6 +3,7 @@
 <form #signup="ngForm" (ngSubmit)="register(signup)">
     <label>Name</label><br>
     <input type="text" name="name" id="name" ngModel required #fullname="ngModel"><br>
+    <p *ngIf="fullname.touched && !fullname.valid" [ngStyle]="{'color':'red'}">Name is Mandatory</p>
     <label>Email</label><br>
     <input type="email" name="email" id="email" ngModel required><br>
     <label>Mobile</label><br>
@@ -12,5 +13,27 @@
     <input type="submit" value="Sign Up">
    
 </form>
+<br>
+<!--
 <p>Form element status {{signup.value | json}}</p>
 <p>Name {{fullname.value}}</p>
+-->
+<div *ngIf="regUsers.length>0">
+<h1>Registered Users</h1>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Mobile</th>
+        <th>Password</th>
+    </tr>
+
+    <tr *ngFor="let user of regUsers">
+        <td>{{user.name}}</td>
+        <td>{{user.email}}</td>
+        <td>{{user.mobile}}</td>
+        <td>{{user.password}}</td>
+    </tr>
+
+</table>
+</div>

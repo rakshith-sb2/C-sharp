@@ -8,6 +8,7 @@ import { NgForm } from '@angular/forms';
 })
 export class TemplateformComponent implements OnInit {
 
+  regUsers:any[]=[]
   constructor() { }
 
   ngOnInit(): void {
@@ -16,6 +17,9 @@ export class TemplateformComponent implements OnInit {
   register(data:NgForm):void{
     console.log('register')
     console.log(data.value)
+    console.log('Name: ' +data.value.name)
+    console.log('Name:using control ' +data.controls['name'].value)
+    this.regUsers.push(data.value)
   }
 
 }
