@@ -14,6 +14,8 @@ import { StyledemoComponent } from './components/styledemo/styledemo.component';
 import { ClassdemoComponent } from './components/classdemo/classdemo.component';
 import { TemplateformComponent } from './components/templateform/templateform.component';
 import { CoronaComponent } from './components/corona/corona.component';
+import {HttpClientModule} from '@angular/common/http';
+import { TodosComponent } from './components/todos/todos.component'
 
 @NgModule({
   declarations: [
@@ -27,12 +29,14 @@ import { CoronaComponent } from './components/corona/corona.component';
     StyledemoComponent,
     ClassdemoComponent,
     TemplateformComponent,
-    CoronaComponent
+    CoronaComponent,
+    TodosComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
