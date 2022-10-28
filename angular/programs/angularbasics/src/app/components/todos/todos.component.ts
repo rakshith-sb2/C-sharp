@@ -27,6 +27,14 @@ export class TodosComponent implements OnInit {
     this.todoService.addTodo(todo.value).subscribe(todo=>{
       console.log('add todo###')
       console.log(todo)
+      /**
+      let todoupd = {
+        userId:todo.userId,
+        id: todo.id,
+        title: todo.title,
+        completed: todo.completed.toString()
+      }
+       */
       this.todos.push(todo)
     }
       )
