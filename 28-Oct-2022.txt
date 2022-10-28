@@ -1,0 +1,41 @@
+Agenda:
+1. Review of assignment
+2. Services - 
+
+3. Pipes
+
+
+Corona
+
+a. Create Corona Model
+models/corona
+
+code,name,active,recovered,death,total
+b. Create corona component
+ng g c components/corona
+c. create coronaservice
+ng g s services/corona
+
+
+Develop a service to interface with todos api
+Observable
+subscribe
+
+publish and subscribe design pattern
+
+1. Create Todos model
+2. ng g s services/todo
+3. Import HttpClientModule in app.module.ts
+4. create todos component
+ng g c components/todos
+
+
+
+Assignment :
+
+Develop fullstack Angular and .net core webapi
+application by referring to following video
+https://www.youtube.com/watch?v=CdE6rVfPJ9I
+
+Assignment :
+https://www.youtube.com/watch?v=CdE6rVfPJ9I
