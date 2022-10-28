@@ -13,6 +13,7 @@ import { SwitchdemoComponent } from './components/switchdemo/switchdemo.componen
 import { StyledemoComponent } from './components/styledemo/styledemo.component';
 import { ClassdemoComponent } from './components/classdemo/classdemo.component';
 import { TemplateformComponent } from './components/templateform/templateform.component';
+import { CoronaComponent } from './components/corona/corona.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { TemplateformComponent } from './components/templateform/templateform.co
     SwitchdemoComponent,
     StyledemoComponent,
     ClassdemoComponent,
-    TemplateformComponent
+    TemplateformComponent,
+    CoronaComponent
   ],
   imports: [
     BrowserModule,
