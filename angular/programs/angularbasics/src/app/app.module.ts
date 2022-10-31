@@ -18,6 +18,8 @@ import {HttpClientModule} from '@angular/common/http';
 import { TodosComponent } from './components/todos/todos.component';
 import { ParentComponent } from './components/parent/parent.component';
 import { ChildComponent } from './components/child/child.component'
+import { CompanyComponent } from './components/company/company.component';
+import { CompaniesComponent } from './components/companies/companies.component';
 
 @NgModule({
   declarations: [
@@ -34,7 +36,9 @@ import { ChildComponent } from './components/child/child.component'
     CoronaComponent,
     TodosComponent,
     ParentComponent,
-    ChildComponent
+    ChildComponent,
+    CompanyComponent,
+    CompaniesComponent
   ],
   imports: [
     BrowserModule,
