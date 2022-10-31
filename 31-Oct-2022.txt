@@ -1,0 +1,5 @@
+Agenda:Angular
+1. Assignment Review
+2. Parent - Child Relationship
+3. Pipes
+4. Routes
