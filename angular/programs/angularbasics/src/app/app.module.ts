@@ -15,7 +15,9 @@ import { ClassdemoComponent } from './components/classdemo/classdemo.component';
 import { TemplateformComponent } from './components/templateform/templateform.component';
 import { CoronaComponent } from './components/corona/corona.component';
 import {HttpClientModule} from '@angular/common/http';
-import { TodosComponent } from './components/todos/todos.component'
+import { TodosComponent } from './components/todos/todos.component';
+import { ParentComponent } from './components/parent/parent.component';
+import { ChildComponent } from './components/child/child.component'
 
 @NgModule({
   declarations: [
@@ -30,7 +32,9 @@ import { TodosComponent } from './components/todos/todos.component'
     ClassdemoComponent,
     TemplateformComponent,
     CoronaComponent,
-    TodosComponent
+    TodosComponent,
+    ParentComponent,
+    ChildComponent
   ],
   imports: [
     BrowserModule,

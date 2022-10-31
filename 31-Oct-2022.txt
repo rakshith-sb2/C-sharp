@@ -1,5 +1,16 @@
 Agenda:Angular
-1. Assignment Review
+1. Assignment Review - done
 2. Parent - Child Relationship
+a. Create parent and child component inside components folder
+ng g c components/parent
+
+ng g c components/child
+
+b. Embed the selector of child inside parent
+Embed parent selector in app.component.html
+<app-child></app-child>
+
+
+
 3. Pipes
-4. Routes
+4. Routes - done
