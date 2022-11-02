@@ -1,0 +1,14 @@
+Agenda:
+
+https://angular.io/guide/pipes
+1. Pipes - transforming the data - |
+
+ng g p pipes/exponentialstrength
+
+create pipes component
+
+ng g c components/pipes
+
+2. ReactiveForms
+3. Unit Testing- Introduction
+4. 

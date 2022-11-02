@@ -20,6 +20,8 @@ import { ParentComponent } from './components/parent/parent.component';
 import { ChildComponent } from './components/child/child.component'
 import { CompanyComponent } from './components/company/company.component';
 import { CompaniesComponent } from './components/companies/companies.component';
+import { ExponentialstrengthPipe } from './pipes/exponentialstrength.pipe';
+import { PipesComponent } from './components/pipes/pipes.component';
 
 @NgModule({
   declarations: [
@@ -38,7 +40,9 @@ import { CompaniesComponent } from './components/companies/companies.component';
     ParentComponent,
     ChildComponent,
     CompanyComponent,
-    CompaniesComponent
+    CompaniesComponent,
+    ExponentialstrengthPipe,
+    PipesComponent
   ],
   imports: [
     BrowserModule,
