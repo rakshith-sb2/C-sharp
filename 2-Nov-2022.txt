@@ -1,6 +1,7 @@
 Agenda:
 
 https://angular.io/guide/pipes
+https://codecraft.tv/courses/angular/
 1. Pipes - transforming the data - |
 
 ng g p pipes/exponentialstrength
@@ -10,5 +11,9 @@ create pipes component
 ng g c components/pipes
 
 2. ReactiveForms
+https://www.pluralsight.com/guides/difference-between-template-driven-and-reactive-forms-angular
+
+ng g c components/reactive-form
+
 3. Unit Testing- Introduction
-4. 
+4. Life Cycle Hooks - 

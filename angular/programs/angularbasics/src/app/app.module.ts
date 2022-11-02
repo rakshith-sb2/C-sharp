@@ -22,6 +22,8 @@ import { CompanyComponent } from './components/company/company.component';
 import { CompaniesComponent } from './components/companies/companies.component';
 import { ExponentialstrengthPipe } from './pipes/exponentialstrength.pipe';
 import { PipesComponent } from './components/pipes/pipes.component';
+import { ReactiveFormsModule } from '@angular/forms';
+import { ReactiveFormComponent } from './components/reactive-form/reactive-form.component'
 
 @NgModule({
   declarations: [
@@ -42,15 +44,18 @@ import { PipesComponent } from './components/pipes/pipes.component';
     CompanyComponent,
     CompaniesComponent,
     ExponentialstrengthPipe,
-    PipesComponent
+    PipesComponent,
+    ReactiveFormComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
