@@ -1,3 +1,5 @@
+Raghu Prasd - 9845547471
+
 Agenda:
 
 https://angular.io/guide/pipes
@@ -14,6 +16,8 @@ ng g c components/pipes
 https://www.pluralsight.com/guides/difference-between-template-driven-and-reactive-forms-angular
 
 ng g c components/reactive-form
+4. Life Cycle Hooks -
+https://codecraft.tv/courses/angular/components/lifecycle-hooks/
 
-3. Unit Testing- Introduction
-4. Life Cycle Hooks - 
+5. Unit Testing- Introduction
+ 

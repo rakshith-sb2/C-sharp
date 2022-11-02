@@ -1,0 +1,12 @@
+https://www.dotnetmastery.com/
+admin@dotnetmastery.com Admin123*
+employee@dotnetmastery.com Admin123*
+individual@dotnetmastery.com	
+company@dotnetmastery.com
+
+https://www.dotnetmastery.com/Home/Details?courseId=9
+https://github.com/bhrugen/Bulky
+
+
+prasadraghuks@gmail.com
+Test@123
